@@ -1,0 +1,3 @@
+This project uses a simulated supply chain dataset designed for educational purposes. It includes daily SKU-level demand, forecast outputs, inventory metrics, supplier performance, lead time variability, logistics delays, and cost parameters.
+
+No proprietary or confidential data is included.
